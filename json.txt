@@ -1,0 +1,14 @@
+    {
+        "id": 1,
+        "cpfCliente": 39371890017,
+        "placaCarro": "ABC-1234",
+        "cpfVendedor": 12345678911,
+        "totalDias": 4
+    }
+    {
+        "id": 2,
+        "cpfCliente": 48216879855,
+        "placaCarro": "DEF-1234",
+        "cpfVendedor": 34378748819,
+        "totalDias": 2
+    }
